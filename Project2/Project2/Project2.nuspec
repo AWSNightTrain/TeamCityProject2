@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Project1</id>
+    <version>$version$</version>
+    <title>Project2</title>
+    <authors>Alain</authors>
+    <owners>Alain</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Project2 Nuget package</description>
+    <copyright>Copyright 2017</copyright>
+  </metadata>
+</package>
